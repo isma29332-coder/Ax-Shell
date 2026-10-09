@@ -1,7 +1,7 @@
 from typing import Optional
 
 
-class GlobalKeybindHandler:
+class GlobalKeybindHandler:e wallet
     """
     Handler for global keybinds that redirects commands to the focused monitor.
     
